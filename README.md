@@ -1,8 +1,6 @@
-# 3rdYearProject_ArchersLogbook
-Archer's Logbook Web Application
-
-3nd Year Project:
-- Archer's Logbook Web Application
+# 3rd Year Project: Archer's Logbook
+Descrition
+- Archer's Logbook is a web application that allows users to record and keep track of their Archery scores
  
 Instructions to view:
 - Visit: https://teamprojectgroupi-elmobai.c9users.io/
