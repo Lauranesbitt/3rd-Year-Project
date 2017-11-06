@@ -1,0 +1,114 @@
+/* # = ID, . = Class*/
+
+/* Main styling */
+body { 
+	background-color: #555;
+	}
+
+.colour{
+    color: #009688;
+}
+
+/* navbar */
+/* Remove the navbar's default margin-bottom and rounded borders */
+.active {
+    background-color: #4CAF50;
+}
+    
+.container-fluid{
+  background-color: #555;
+  color: white;
+
+}
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {height: 450px}
+
+/* Set gray background color and 100% height */
+.sidenav {
+  padding-top: 20px;
+  background-color: #f2f2f2;
+  height: 100%;
+}
+
+	
+.hidden{
+    display: none;
+}
+/* Set black background color, white text and some padding */
+footer{
+    background-color: #555;
+    color: white;
+    padding: 15px;
+    width:100%;
+    text-align: center;
+}
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+  .sidenav {
+    height: auto;
+    padding: 15px;
+  }
+  .row.content {height:auto;}
+}
+
+section{
+    background-color:#fff;
+}
+.bookingmanager{
+    width:80%;
+    margin: 0 auto;
+}
+.centered{
+    text-align:center;
+}
+.buttons{
+    text-align-last: center;
+    margin: 0 auto;
+}
+
+/* Login/Register field styling */
+.login-register{
+    padding: 2em;
+    text-align: center;
+}
+.full-width{
+    width: 100%;
+}
+/* header styling */
+.brand{
+    color:#fff;
+    text-decoration: none;
+}
+.brand:hover{
+    text-decoration: underline;
+}
+
+/*Material Design overwrites */
+
+.mdl-layout-title a{
+    color: #000;
+    text-decoration: none;
+}
+.mdl-layout-title a:hover{
+    color: #4ECDC4;
+    transition: color 0.5s ease;
+}
+.text-left{
+    text-align: left;
+    float:left;
+}
+header{
+    padding-right: 200px;
+}
+
+.align-centered{
+    text-align: center;
+    margin: 0 auto;
+}
+
