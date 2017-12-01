@@ -1,5 +1,5 @@
 # 3rd Year Project: Archer's Logbook
-Description
+Description:
 - Archer's Logbook is a web application that allows users to record and keep track of their Archery scores
  
 Instructions to view:
